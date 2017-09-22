@@ -1,0 +1,12 @@
+body {background: url(curly.jpg)}
+p {font-size: 16px}
+a:link, a:visited {color:#4D65A0}
+a:focus, a:hover, a:active {color:#7A4DA0; text-decoration: none;
+font-weight:bold}
+img.little {border: 1px solid #4d65A0}
+p.copyright {font-size: smaller; padding-top: 40px}
+div.nav_bar {position: absolute; left: 10px; top: 10px}
+div.main {margin-left: 90px}
+div.nav_bar {position: absolute; left: 10px; top: 10px; text-align:right}
+div.nav_bar a {font-size: 10px}
+div.main p {font-style:italic}
