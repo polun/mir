@@ -1,0 +1,25 @@
+A {
+    color: #800000; 
+    background: #ffc;
+    padding: 2px; 
+   }
+
+#mission {
+font-style: italic;
+font-family: "Garamond",
+"Century Gothic", serif;
+}
+
+body {
+	font-family: Verdana;
+    background: #333; 
+    color: #fc0; 
+   }
+
+H1, h2, h3 {
+  color: #FF4F4F;
+  }   
+
+strong {
+	color: yellow;
+}  
